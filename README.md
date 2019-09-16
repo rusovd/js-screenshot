@@ -1,0 +1,1 @@
+https://rusovd.github.io/js-screenshot/
